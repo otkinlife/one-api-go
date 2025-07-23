@@ -1,3 +1,3 @@
 module github.com/otkinlife/one-api-go
 
-go 1.23.8
+go 1.23
